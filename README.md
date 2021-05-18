@@ -2,6 +2,9 @@ site demo link :
 https://chat-application-sameed.netlify.app/
 
 
+testing credentials: username: sameedkhan
+                     password: test123
+
 
 
 
